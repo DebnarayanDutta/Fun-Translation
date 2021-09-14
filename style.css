@@ -1,0 +1,45 @@
+.heading {
+    text-align: center;
+    background-color:  rgb(207, 79, 74);
+    padding: 20px;
+    margin-top: 30px;
+}
+.section {
+    text-align: center;
+}
+.inputbar {
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 1.2rem;
+    width: 600px;
+    height: 90px;
+    border-color: black;
+}
+.display {
+    border: solid black;
+    padding: 30px;
+    width:600px;
+    height: 100px;
+    margin-top: 20px;
+    font-size: larger;
+    font-weight: 600px;
+    display: inline-block;
+}
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+.submitBtn{
+    background: none;
+    background-color: rgb(207, 79, 74);
+    padding: 1rem;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.submitBtn:hover{
+    background-color: rgb(1, 160, 160);
+    color: white;
+}
